@@ -1,1 +1,41 @@
-/* Los estilos de tu proyecto */
+#download-app {
+  background-color: #F7B617;
+  margin-left: 10%;
+  margin-top: 65%;
+}
+
+.content {
+  padding: 1em 0em 1.2em 2em;
+}
+
+body {
+  background-color: #F7B617;
+  background-image: url('../assets/images/taxi.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 800px;
+}
+
+.text {
+  color: #FFFFFF;
+  font-size: 1.8em;
+  margin-bottom: 0%;
+}
+
+.navbar {
+  background-color: #FFFFFF;
+}
+
+.iphone {
+  border: 2px solid #FFFFFF;
+  margin: 35% 4.165% 0% 4.165%;
+  padding: 5%;
+}
+
+.white {
+  color: #FFFFFF;
+  font-size: 1em;
+  margin-top: 5%;
+  margin-left: 5%;
+}
