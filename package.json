@@ -1,0 +1,19 @@
+{
+  "name": "lab-car",
+  "version": "1.0.0",
+  "description": "Proyecto Maquetacion \"LabCar\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnndyGrs/lab-car-boilerplate.git"
+  },
+  "author": "Andrea Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnndyGrs/lab-car-boilerplate/issues"
+  },
+  "homepage": "https://github.com/AnndyGrs/lab-car-boilerplate#readme"
+}
