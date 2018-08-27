@@ -1,7 +1,7 @@
 #download-app {
   background-color: #F7B617;
   margin-left: 10%;
-  margin-top: 65%;
+  margin-top: 60%;
 }
 
 .content {
@@ -23,13 +23,17 @@ body {
   margin-bottom: 0%;
 }
 
+.new-app {
+  margin-left: 20%;
+}
+
 .navbar {
   background-color: #FFFFFF;
 }
 
 .iphone {
   border: 2px solid #FFFFFF;
-  margin: 35% 4.165% 0% 4.165%;
+  margin: 40% 4.165% 0% 4.165%;
   padding: 5%;
 }
 
